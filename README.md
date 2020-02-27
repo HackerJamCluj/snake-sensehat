@@ -1,4 +1,4 @@
-This is an implementation of the snake game that runs on the Raspberry-pi SenseHat.
+This is version of the implementation of the snake game, originally posted by jonasvinther here ( https://github.com/jonasvinther/snake/blob/master/snake.py )
 
 Run with: python snake.py
 
